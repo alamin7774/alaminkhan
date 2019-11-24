@@ -1,0 +1,41 @@
+
+*{
+
+margin:0 ;
+padding:0;
+}
+
+body{
+
+background-color: silver;
+font-family: 'Bebas Neue', cursive;
+
+}
+.container{
+max-width:1000px;
+background-color: red;
+margin: 0 auto;
+padding:20px ;
+heder{
+
+}
+}
+.profile-img{
+width:100px;
+height:120px;
+bottom:3px solid black;
+border-radius: 50px;
+float: left;
+}
+.alamin{
+float:left;
+padding:20px;
+
+}
+h1,h2,h3,h4,h5,h6{
+
+color: #000;
+
+
+
+}
